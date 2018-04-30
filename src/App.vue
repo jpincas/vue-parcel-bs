@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import { increment, decrement } from "./lib/logic.ml";
+import { increment, decrement } from "./library/logic.ml";
 
 export default {
   name: "app",

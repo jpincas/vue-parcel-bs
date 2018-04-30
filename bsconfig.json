@@ -2,7 +2,7 @@
   "name": "parcel-plugin-bucklescript-example",
   "sources": {
     "dir": "src",
-    "subdirs": ["lib"]
+    "subdirs": ["library"]
   },
   "package-specs": {
     "module": "es6-global",

@@ -1,0 +1,23 @@
+{
+  "name": "js-messing-about",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^1.2.1",
+    "babel-preset-env": "^1.6.1",
+    "bs-platform": "^3.0.0",
+    "parcel-bundler": "^1.7.1",
+    "parcel-plugin-bucklescript": "^0.1.0",
+    "parcel-plugin-vue": "^1.5.0"
+  }
+}

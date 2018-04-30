@@ -1,0 +1,16 @@
+{
+  "name": "parcel-plugin-bucklescript-example",
+  "sources": {
+    "dir": "src",
+    "subdirs": ["lib"]
+  },
+  "package-specs": {
+    "module": "es6-global",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "bs-dependencies": [],
+  "reason": {},
+  "bsc-flags": ["-bs-super-errors"],
+  "refmt": 3
+}
